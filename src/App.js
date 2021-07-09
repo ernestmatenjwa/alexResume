@@ -17,12 +17,11 @@ export default function App() {
       <p class="regular">CONTACT</p>
       <hr></hr>
       <br></br>
-      <p>Email &emsp;   :  alexmatenjwa@gmail.com</p>
-      <p>Cell &emsp; &emsp;  :0729476167</p>
-      <p>Address :Pretoria, Soshanguve </p>
-      <p>&emsp;&emsp;&emsp;&emsp;3043L</p>
-      <p>Facebook:  AlEx Mathenjwa</p>
-      <p>Twitter    :  @Alex_Matenjwa</p><br></br>
+      <p>alexmatenjwa@gmail.com</p>
+      <p>0729476167</p>
+      <p>Pretoria, Soshanguve 3043L</p>
+      <p>AlEx Mathenjwa</p>
+      <p>@Alex_Matenjwa</p><br></br>
       <p class="regular">PERSONAL DETAILS</p>
 
       <hr></hr>
