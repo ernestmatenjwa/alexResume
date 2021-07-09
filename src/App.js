@@ -15,11 +15,6 @@ export default function App() {
            <p class="regular">SOFTWARE DEVELOPER</p>
       </div>
       <p class="regular">CONTACT</p>
-      <i class="fas fa-envelope"></i>
-
-
-
-      
       <hr></hr>
       <br></br>
       <p>Email &emsp;   :  alexmatenjwa@gmail.com</p>
@@ -28,6 +23,14 @@ export default function App() {
       <p>&emsp;&emsp;&emsp;&emsp;3043L</p>
       <p>Facebook:  AlEx Mathenjwa</p>
       <p>Twitter    :  @Alex_Matenjwa</p><br></br>
+      <p class="regular">PERSONAL DETAILS</p>
+
+      <hr></hr>
+      <br></br>
+      <p>Date of Birth &emsp;: 16 October 1995</p>
+      <p>Marital Status&emsp;:Single</p>
+      <p>Nationality &emsp;&emsp;:South African </p><br></br>
+      
       <p class="regular">SKILLS</p>
       <hr></hr>
       <br></br>
