@@ -43,7 +43,7 @@ export default function App() {
       <p>Project Management & Systems Analysis</p>
       <p>ReactJS framework</p>
       <br></br>
-      <p class="regular">NTERESTS</p>
+      <p class="regular">INTERESTS</p>
       <hr></hr><br></br>
       <p>Participating in social activities</p>
       <p>Surfing through internet</p>
@@ -88,10 +88,10 @@ export default function App() {
 <p class="bold">REFERENCE</p>
 <hr></hr><br></br>
 
-<p>Mr. Ranko V.N</p>
-<p>Lecturer & WIL Coordinator</p>
-<p>Tell     : 012 382 9112</p>
-<p>Email : rankovn@tut.ac.za</p>
+<p><b>Mr. Malatji K</b></p>
+<p>ICEP Mentor</p>
+<p><b>Tell </b>    : +27 12 382 9598</p>
+<p><b>Email</b>    : malatji@icep.ac.za</p>
       </div>
       </div>
     </div>
