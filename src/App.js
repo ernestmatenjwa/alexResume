@@ -17,45 +17,42 @@ export default function App() {
       <p class="regular">CONTACT</p>
       <hr></hr>
       <br></br>
-      <p>alexmatenjwa@gmail.com</p>
-      <p>0729476167</p>
-      <p>Pretoria, Soshanguve 3043L</p>
-      <p>AlEx Mathenjwa</p>
-      <p>@Alex_Matenjwa</p><br></br>
+      <p class="leftp">alexmatenjwa@gmail.com</p>
+      <p class="leftp">0729476167</p>
+      <p class="leftp">Pretoria, Soshanguve 3043L</p>
+      <p class="leftp">AlEx Mathenjwa</p>
+      <p class="leftp">@Alex_Matenjwa</p><br></br>
       <p class="regular">PERSONAL DETAILS</p>
 
       <hr></hr>
       <br></br>
-      <p>Date of Birth &emsp;: 16 October 1995</p>
-      <p>Marital Status&emsp;:Single</p>
-      <p>Nationality &emsp;&emsp;:South African </p><br></br>
+      <p class="leftp">Date of Birth &emsp;: 16 October 1995</p>
+      <p class="leftp">Marital Status&emsp;:Single</p>
+      <p class="leftp">Nationality &emsp;&emsp;:South African </p><br></br>
       
       <p class="regular">SKILLS</p>
       <hr></hr>
       <br></br>
-      <p>C++</p>
-      <p>SQL Oracle/ PL SQL Oracle</p>
-      <p>AngularJS Framework</p>
-      <p>Node.js & Express framework</p>
-      <p>HTML5 & CSS3</p>
-      <p>JavaScript</p>
-      <p>PHP & MYSQL</p>
-      <p>Project Management & Systems Analysis</p>
-      <p>ReactJS framework</p>
+      <p class="leftp">C++</p>
+      <p class="leftp">SQL Oracle/ PL SQL Oracle</p>
+      <p class="leftp">AngularJS Framework</p>
+      <p class="leftp">Node.js & Express framework</p>
+      <p class="leftp">HTML5 & CSS3</p>
+      <p class="leftp">JavaScript</p>
+      <p class="leftp">PHP & MYSQL</p>
+      <p class="leftp">Project Management & Systems Analysis</p>
+      <p class="leftp">ReactJS framework</p>
       <br></br>
       <p class="regular">INTERESTS</p>
       <hr></hr><br></br>
-      <p>Participating in social activities</p>
-      <p>Surfing through internet</p>
-      <p>Programming</p>
+      <p class="leftp">Participating in social activities</p>
+      <p class="leftp">Surfing through internet</p>
+      <p class="leftp">Programming</p>
       <br></br>
       <p class="regular">LANGUAGES</p>
       <hr></hr><br></br>
-      <p>English</p>
-      <p> SiSwati HL</p>
-      <p>Zulu</p>
-      <p>Xitsonga</p>
-
+      <p class="leftp">English, SiSwati HL, Zulu and Xitsonga</p>
+    
       </div>
       </div>
       </div>
