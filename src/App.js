@@ -15,15 +15,22 @@ export default function App() {
            <p class="regular">SOFTWARE DEVELOPER</p>
       </div>
       <p class="regular">CONTACT</p>
+      <i class="fas fa-envelope"></i>
+
+
+
+      
       <hr></hr>
-      <p><b>Email</b> &emsp;  :  alexmatenjwa@gmail.com</p>
-      <p><b>Cell</b> &emsp;  :  0729476167</p>
-      <p><b>Address</b> &emsp;  :  Pretoria, Soshanguve 3043L</p>
-      <p><b>Facebook</b> &emsp;  :  AlEx Mathenjwa</p>
-      <p><b>Twitter</b> &emsp;  :  @Alex_Matenjwa</p>
+      <br></br>
+      <p>Email &emsp;   :  alexmatenjwa@gmail.com</p>
+      <p>Cell &emsp; &emsp;  :0729476167</p>
+      <p>Address :Pretoria, Soshanguve </p>
+      <p>&emsp;&emsp;&emsp;&emsp;3043L</p>
+      <p>Facebook:  AlEx Mathenjwa</p>
+      <p>Twitter    :  @Alex_Matenjwa</p><br></br>
       <p class="regular">SKILLS</p>
       <hr></hr>
-  
+      <br></br>
       <p>C++</p>
       <p>SQL Oracle/ PL SQL Oracle</p>
       <p>AngularJS Framework</p>
@@ -33,15 +40,15 @@ export default function App() {
       <p>PHP & MYSQL</p>
       <p>Project Management & Systems Analysis</p>
       <p>ReactJS framework</p>
-   
+      <br></br>
       <p class="regular">NTERESTS</p>
-      <hr></hr>
+      <hr></hr><br></br>
       <p>Participating in social activities</p>
       <p>Surfing through internet</p>
       <p>Programming</p>
-
+      <br></br>
       <p class="regular">LANGUAGES</p>
-      <hr></hr>
+      <hr></hr><br></br>
       <p>English</p>
       <p> SiSwati HL</p>
       <p>Zulu</p>
