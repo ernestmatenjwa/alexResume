@@ -14,14 +14,15 @@ export default function App() {
            <p class="bold">ERNEST MATENJWA</p>
            <p class="regular">SOFTWARE DEVELOPER</p>
       </div>
-      <p class="bold">CONTACT</p>
+      <p class="regular">CONTACT</p>
+      <hr></hr>
       <p><b>Email</b> &emsp;  :  alexmatenjwa@gmail.com</p>
       <p><b>Cell</b> &emsp;  :  0729476167</p>
       <p><b>Address</b> &emsp;  :  Pretoria, Soshanguve 3043L</p>
       <p><b>Facebook</b> &emsp;  :  AlEx Mathenjwa</p>
       <p><b>Twitter</b> &emsp;  :  @Alex_Matenjwa</p>
-      <p class="bold">SKILLS</p>
-
+      <p class="regular">SKILLS</p>
+      <hr></hr>
   
       <p>C++</p>
       <p>SQL Oracle/ PL SQL Oracle</p>
@@ -33,12 +34,14 @@ export default function App() {
       <p>Project Management & Systems Analysis</p>
       <p>ReactJS framework</p>
    
-      <p class="bold">NTERESTS</p>
+      <p class="regular">NTERESTS</p>
+      <hr></hr>
       <p>Participating in social activities</p>
       <p>Surfing through internet</p>
       <p>Programming</p>
 
-      <p class="bold">LANGUAGES</p>
+      <p class="regular">LANGUAGES</p>
+      <hr></hr>
       <p>English</p>
       <p> SiSwati HL</p>
       <p>Zulu</p>
