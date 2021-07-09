@@ -34,11 +34,16 @@ software developer.
 </p>
 <br></br>
 <p class="bold">EDUCATION</p>
-<p>
-  
-</p>
-
-
+<p class="min_head">TERTIARY</p>
+<p>Institution :  TSHWANE UNIVERSITY OF TECHNOLOGY</p>
+<p>Course : NDip: information Technology: Software development</p>
+<p>Faculty : Information & Communication Technology(ICT)</p>
+<p>Level : final level</p>
+<p class="min_head">HIGH SCHOOL</p>
+<p>School name :  SIBUSISIWE HIGH SCHOOL</p>
+<p></p>
+<p></p>
+<p></p>
       </div>
       </div>
     </div>
