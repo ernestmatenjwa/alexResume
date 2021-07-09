@@ -65,24 +65,16 @@ export default function App() {
         <div class="title">
         <p class="bold">PERSONAL ATTRIBUTES</p>
         </div>
-        <p>I regard myself as a person who is fascinated by challenges in all
-sorts of way, work or life, that is merely based on my belief that
-evolving and adapting to challenges is the whole concept of being
-competitive and that is what i want to bring to the workplace. With
-the less experience that i have only means i have more room for
-improvement especially in programming languages, I have taught
-myself a few and am willing to learn and be productive as a
-software developer.
-</p>
+        <p>I regard myself as a person who is fascinated by challenges in all sorts of way, work or life, that is merely based on my belief that evolving and adapting to challenges is the whole concept of being competitive and that is what i want to bring to the workplace. With the less experience that i have only means i have more room for improvement especially in programming languages, I have taught myself a few and am willing to learn and be productive as a software developer.</p>
 <br></br>
 <p class="bold">EDUCATION</p>
 <p class="min_head"><b>TERTIARY</b></p>
-<p class="minT"><b>Institution</b>  &emsp; &emsp;    :  TSHWANE UNIVERSITY OF TECHNOLOGY</p>
-<p><b>Course</b> &emsp; &emsp; &emsp; : NDip: information Technology: Software development</p>
-<p><b>Faculty</b> &emsp; &emsp; &emsp; : Information & Communication Technology(ICT)</p>
-<p><b>Level</b> &emsp; &emsp; &emsp; &emsp;: final level</p>
+<p class="minT">Institution: TSHWANE UNIVERSITY OF TECHNOLOGY</p>
+<p>Course &emsp;: NDip: information Technology: Software development</p>
+<p>Faculty &emsp;: Information & Communication Technology(ICT)</p>
+<p>Level &emsp;&emsp;: final level</p>
 <p class="min_head"><b>HIGH SCHOOL</b></p>
-<p><b>School name</b> &emsp;  :  SIBUSISIWE HIGH SCHOOL</p>
+<p>School name :  SIBUSISIWE HIGH SCHOOL</p>
 
 <p></p>
 <p></p>
