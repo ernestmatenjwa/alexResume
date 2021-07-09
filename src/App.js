@@ -92,6 +92,13 @@ export default function App() {
 <p>ICEP Mentor</p>
 <p><b>Tell </b>    : +27 12 382 9598</p>
 <p><b>Email</b>    : malatji@icep.ac.za</p>
+
+<br></br>
+<p class="bold">DECLARATION</p>
+<hr></hr><br></br>
+I, <b>Ernest Matenjwa</b> declare that all the information stated above is
+complete and correct in every aspect
+
       </div>
       </div>
     </div>
