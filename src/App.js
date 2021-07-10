@@ -8,6 +8,11 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import Button from '@material-ui/core/Button';
+import BorderColorIcon from '@material-ui/icons/BorderColor';
+import HistoryIcon from '@material-ui/icons/History';
+import SchoolIcon from '@material-ui/icons/School';
+import TimelineIcon from '@material-ui/icons/Timeline';
+import PersonIcon from '@material-ui/icons/Person';
  
 export default function App() {
   return (
@@ -38,14 +43,14 @@ export default function App() {
       <p class="regular">PERSONAL DETAILS</p>
 
       <hr></hr>
-      <br></br>
+     
       <p class="leftp">Date of Birth &emsp;: 16 October 1995</p>
       <p class="leftp">Marital Status&emsp;:Single</p>
       <p class="leftp">Nationality &emsp;&emsp;:South African </p><br></br>
       
       <p class="regular">SKILLS</p>
       <hr></hr>
-      <br></br>
+    
       <p class="leftp">C++</p>
       <p class="leftp">SQL Oracle/ PL SQL Oracle</p>
       <p class="leftp">AngularJS Framework</p>
@@ -57,13 +62,13 @@ export default function App() {
       <p class="leftp">ReactJS framework</p>
       <br></br>
       <p class="regular">INTERESTS</p>
-      <hr></hr><br></br>
+      <hr></hr>
       <p class="leftp">Participating in social activities</p>
       <p class="leftp">Surfing through internet</p>
       <p class="leftp">Programming</p>
       <br></br>
       <p class="regular">LANGUAGES</p>
-      <hr></hr><br></br>
+      <hr></hr>
       <p class="leftp">English, SiSwati HL, Zulu and Xitsonga</p>
     
       </div>
@@ -73,14 +78,13 @@ export default function App() {
       <div class="resume_right">
       <div class="resume_item resume_about">
         <div class="title">
-        <p class="bold">PERSONAL ATTRIBUTES</p>
+        <p class="bold">PERSONAL ATTRIBUTES <PersonIcon/></p>
         <hr></hr>
         </div>
         <p>I regard myself as a person who is fascinated by challenges in all sorts of way, work or life, that is merely based on my belief that evolving and adapting to challenges is the whole concept of being competitive and that is what i want to bring to the workplace. With the less experience that i have only means i have more room for improvement especially in programming languages, I have taught myself a few and am willing to learn and be productive as a software developer.</p>
-<br></br>
 <div class="resume_item resume_work">
         <div class="title">
-           <p class="bold">Work Experience</p>
+           <p class="bold">Work Experience <TimelineIcon/></p>
            <hr></hr>
          </div>
         <ul>
@@ -101,7 +105,7 @@ export default function App() {
         
         </ul>
     </div>
-<p class="bold">EDUCATION</p>
+<p class="bold">EDUCATION <SchoolIcon/></p>
 <hr></hr><br></br>
 <p class="min_head"><b>TERTIARY</b></p>
 <p class="minT">Institution: TSHWANE UNIVERSITY OF TECHNOLOGY</p>
@@ -117,8 +121,8 @@ export default function App() {
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mathematical literacy, Life Orientation,</p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Agricultural Science, Geography,</p>
 <p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Life Sciences</p>                                           
-<br></br>
-<p class="bold">REFERENCE</p>
+
+<p class="bold">REFERENCE <HistoryIcon/></p>
 <hr></hr><br></br>
 
 <p><b>Mr. Malatji K</b></p>
@@ -126,8 +130,8 @@ export default function App() {
 <p><b>Tell </b>    : +27 12 382 9598</p>
 <p><b>Email</b>    : malatji@icep.ac.za</p>
 
-<br></br>
-<p class="bold">DECLARATION</p>
+
+<p class="bold">DECLARATION <BorderColorIcon/></p>
 <hr></hr><br></br>
 I, <b>Ernest Matenjwa</b> declare that all the information stated above is
 complete and correct in every aspect
