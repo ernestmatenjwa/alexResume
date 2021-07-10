@@ -32,10 +32,10 @@ export default function App() {
       <p class="leftp"><LocalPhoneIcon/>0729476167</p>
       <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
       <br></br>
-      <Button variant="contained"color="primary"href="https://www.youtube.com/"><FacebookIcon/></Button>
-      <Button variant="contained"color="primary"href="https://www.youtube.com/"><TwitterIcon /></Button>
-      <Button variant="contained"color="primary"href="https://www.youtube.com/"><InstagramIcon /></Button>
-      <Button variant="contained"color="primary"href="https://www.youtube.com/"><GitHubIcon /></Button>
+      <Button variant="contained"color="#0bb5f4" href="https://www.facebook.com/profile.php?id=100005928735247"><FacebookIcon/></Button>
+      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><TwitterIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><InstagramIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><GitHubIcon /></Button>
       
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
