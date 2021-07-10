@@ -1,5 +1,9 @@
 import React from "react";
 import "./style.css";
+import HouseIcon from '@material-ui/icons/House';
+import LocalPhoneIcon from '@material-ui/icons/LocalPhone';
+import EmailIcon from '@material-ui/icons/Email';
+import Profile from "./images/profile.jpg";
  
 export default function App() {
   return (
@@ -17,10 +21,10 @@ export default function App() {
       </div>
       <p class="regular">CONTACT</p>
       <hr></hr>
-      <br></br>
-      <p class="leftp">alexmatenjwa@gmail.com</p>
-      <p class="leftp">0729476167</p>
-      <p class="leftp">Pretoria, Soshanguve 3043L</p>
+     
+      <p class="leftp"><EmailIcon/>alexmatenjwa@gmail.com</p>
+      <p class="leftp"><LocalPhoneIcon/>0729476167</p>
+      <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
       <p class="leftp">AlEx Mathenjwa</p>
       <p class="leftp">@Alex_Matenjwa</p><br></br>
       <p class="regular">PERSONAL DETAILS</p>
