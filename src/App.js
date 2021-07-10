@@ -7,6 +7,7 @@ export default function App() {
       <div class="resume_left">
       <div class="resume_profile">
       <img src="" alt="profile_pic"></img>
+      <img src={require('./images/profile_pic')}/>
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info">
