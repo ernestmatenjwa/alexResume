@@ -33,11 +33,12 @@ export default function App() {
       <p class="leftp"><EmailIcon/>alexmatenjwa@gmail.com</p>
       <p class="leftp"><LocalPhoneIcon/>0729476167</p>
       <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
-      <br></br>
-      <Button variant="contained"color="#0bb5f4" href="https://www.facebook.com/profile.php?id=100005928735247"><FacebookIcon/></Button>
-      <Button variant="contained"color="#0bb5f4" href="https://twitter.com/Alex_Matenjwa?s=08"><TwitterIcon /></Button>
+      
+      <Button class= "btn" variant="contained"color="#0bb5f4" href="https://www.facebook.com/profile.php?id=100005928735247"><FacebookIcon/></Button>&emsp;
+      <Button class= "btn" variant="contained"color="#0bb5f4"href="https://twitter.com/Alex_Matenjwa?s=08"><TwitterIcon /></Button>&emsp;
       <Button class= "btn" variant="contained"color="#0bb5f4"href="https://www.instagram.com/alex_mathenjwa/"><InstagramIcon /></Button>
-      <Button variant="contained"color="#0bb5f4"href="https://github.com/ernestmatenjwa/icepweb_backend_APIs.git"><GitHubIcon /></Button>
+      &emsp;
+      <Button class= "btn" variant="contained"color="#0bb5f4"href="https://github.com/ernestmatenjwa/icepweb_backend_APIs.git"><GitHubIcon /></Button>
       
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
