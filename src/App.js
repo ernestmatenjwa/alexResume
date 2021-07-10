@@ -80,6 +80,29 @@ export default function App() {
         </div>
         <p>I regard myself as a person who is fascinated by challenges in all sorts of way, work or life, that is merely based on my belief that evolving and adapting to challenges is the whole concept of being competitive and that is what i want to bring to the workplace. With the less experience that i have only means i have more room for improvement especially in programming languages, I have taught myself a few and am willing to learn and be productive as a software developer.</p>
 <br></br>
+<div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">Work Experience</p>
+           <hr></hr>
+         </div>
+        <ul>
+            <li>
+                <div class="date">December 2020 - May 2021</div> 
+                <div class="info">
+                     <p class="semi-bold">Software developer</p> 
+                  <p>I was working mostly as a backend developer. I was creating APIs and databases using NodeJS and Express Framework. I managed also to familialize myself with Angular for creating HTTP services and user interface</p>
+                </div>
+            </li>
+            <li>
+              <div class="date">July 2021 - Present</div>
+              <div class="info">
+                     <p class="semi-bold">Software developer</p> 
+                  <p>I am working as Fullstack developer</p>
+                </div>
+            </li>
+        
+        </ul>
+    </div>
 <p class="bold">EDUCATION</p>
 <hr></hr><br></br>
 <p class="min_head"><b>TERTIARY</b></p>
