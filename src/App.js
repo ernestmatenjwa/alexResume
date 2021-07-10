@@ -3,7 +3,6 @@ import "./style.css";
 import HouseIcon from '@material-ui/icons/House';
 import LocalPhoneIcon from '@material-ui/icons/LocalPhone';
 import EmailIcon from '@material-ui/icons/Email';
-import IconButton from '@material-ui/core/IconButton';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
@@ -33,9 +32,9 @@ export default function App() {
       <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
       <br></br>
       <Button variant="contained"color="#0bb5f4" href="https://www.facebook.com/profile.php?id=100005928735247"><FacebookIcon/></Button>
-      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><TwitterIcon /></Button>
-      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><InstagramIcon /></Button>
-      <Button variant="contained"color="#0bb5f4"href="https://www.youtube.com/"><GitHubIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="https://twitter.com/Alex_Matenjwa?s=08"><TwitterIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="#"><InstagramIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="#"><GitHubIcon /></Button>
       
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
