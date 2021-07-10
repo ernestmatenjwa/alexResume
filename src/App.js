@@ -8,14 +8,13 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import Button from '@material-ui/core/Button';
-import Image from "./images/profile.jpg";
  
 export default function App() {
   return (
     <div class="resume">
       <div class="resume_left">
       <div class="resume_profile">
-      <img src={"https://www.pexels.com/photo/creative-composition-with-minerals-and-wooden-branch-6945072/"}/>
+      <img src="/images/profile.jpg" />
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info"> 
