@@ -40,7 +40,7 @@ export default function App() {
       &emsp;
       <Button class= "btn" variant="contained"color="#0bb5f4"href="https://github.com/ernestmatenjwa/icepweb_backend_APIs.git"><GitHubIcon /></Button>
       
-      <br></br><br></br>
+      <br></br>
       <p class="regular">PERSONAL DETAILS</p>
 
       <hr></hr>
