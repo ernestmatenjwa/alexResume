@@ -3,6 +3,10 @@ import "./style.css";
 import HouseIcon from '@material-ui/icons/House';
 import LocalPhoneIcon from '@material-ui/icons/LocalPhone';
 import EmailIcon from '@material-ui/icons/Email';
+import IconButton from '@material-ui/core/IconButton';
+import FacebookIcon from '@material-ui/icons/Facebook';
+import TwitterIcon from '@material-ui/icons/Twitter';
+import GitHubIcon from '@material-ui/icons/GitHub';
 import Profile from "./images/profile.jpg";
  
 export default function App() {
@@ -25,8 +29,11 @@ export default function App() {
       <p class="leftp"><EmailIcon/>alexmatenjwa@gmail.com</p>
       <p class="leftp"><LocalPhoneIcon/>0729476167</p>
       <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
-      <p class="leftp">AlEx Mathenjwa</p>
-      <p class="leftp">@Alex_Matenjwa</p><br></br>
+      <br></br>
+      <IconButton/><FacebookIcon />
+      <IconButton/><TwitterIcon />
+      <IconButton /><GitHubIcon />
+      <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
 
       <hr></hr>
