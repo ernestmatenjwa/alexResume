@@ -15,8 +15,7 @@ export default function App() {
     <div class="resume">
       <div class="resume_left">
       <div class="resume_profile">
-      <img src="" alt="profile_pic"></img>
-      
+      <img src={"https://www.pexels.com/photo/creative-composition-with-minerals-and-wooden-branch-6945072/"}/>
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info"> 
