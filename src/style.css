@@ -17,7 +17,10 @@ body {
 .leftp {
   color: white;
 }
-
+.exp{
+  color: #22b3e7c0;
+  font-weight: 700;
+}
 .bold {
   font-weight: 700;
   font-size: 20px;

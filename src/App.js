@@ -8,7 +8,7 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
 import Button from '@material-ui/core/Button';
-import Profile from "./images/profile.jpg";
+import Image from "./images/profile.jpg";
  
 export default function App() {
   return (
@@ -87,14 +87,14 @@ export default function App() {
          </div>
         <ul>
             <li>
-                <div class="date">December 2020 - May 2021</div> 
+                <div class="exp">DEC 2020 - MAY 2021</div> 
                 <div class="info">
                      <p class="semi-bold">Software developer</p> 
                   <p>I was working mostly as a backend developer. I was creating APIs and databases using NodeJS and Express Framework. I managed also to familialize myself with Angular for creating HTTP services and user interface</p>
                 </div>
             </li>
             <li>
-              <div class="date">July 2021 - Present</div>
+              <div class="exp">JUL 2021 - Present</div>
               <div class="info">
                      <p class="semi-bold">Software developer</p> 
                   <p>I am working as Fullstack developer</p>
