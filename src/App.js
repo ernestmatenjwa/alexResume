@@ -7,6 +7,7 @@ import IconButton from '@material-ui/core/IconButton';
 import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
+import InstagramIcon from '@material-ui/icons/Instagram';
 import Profile from "./images/profile.jpg";
  
 export default function App() {
@@ -32,6 +33,7 @@ export default function App() {
       <br></br>
       <IconButton/><FacebookIcon />
       <IconButton/><TwitterIcon />
+      <IconButton /><InstagramIcon />
       <IconButton /><GitHubIcon />
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
