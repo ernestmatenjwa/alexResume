@@ -13,19 +13,22 @@ import HistoryIcon from '@material-ui/icons/History';
 import SchoolIcon from '@material-ui/icons/School';
 import TimelineIcon from '@material-ui/icons/Timeline';
 import PersonIcon from '@material-ui/icons/Person';
+import Avatar from '@material-ui/core/Avatar';
  
 export default function App() {
   return (
     <div class="resume">
       <div class="resume_left">
       <div class="resume_profile">
-      <img src="/images/profile.jpg" />
+
+      <Avatar src="https://web.facebook.com/photo?fbid=1844545479086392&set=a.300016890205933" />
+
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info"> 
       <div class="title">
            <p class="bold">ERNEST MATENJWA</p>
-           <p class="regular">SOFTWARE DEVELOPER</p>
+           <p class="regular" style ={{color : "yellow"}}  >SOFTWARE DEVELOPER</p>
       </div>
       <p class="regular">CONTACT</p>
       <hr></hr>
