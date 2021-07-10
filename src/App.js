@@ -34,7 +34,7 @@ export default function App() {
       <Button variant="contained"color="#0bb5f4" href="https://www.facebook.com/profile.php?id=100005928735247"><FacebookIcon/></Button>
       <Button variant="contained"color="#0bb5f4"href="https://twitter.com/Alex_Matenjwa?s=08"><TwitterIcon /></Button>
       <Button variant="contained"color="#0bb5f4"href="#"><InstagramIcon /></Button>
-      <Button variant="contained"color="#0bb5f4"href="#"><GitHubIcon /></Button>
+      <Button variant="contained"color="#0bb5f4"href="https://github.com/ernestmatenjwa/icepweb_backend_APIs.git"><GitHubIcon /></Button>
       
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
