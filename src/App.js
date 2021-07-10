@@ -8,6 +8,7 @@ import FacebookIcon from '@material-ui/icons/Facebook';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import InstagramIcon from '@material-ui/icons/Instagram';
+import Button from '@material-ui/core/Button';
 import Profile from "./images/profile.jpg";
  
 export default function App() {
@@ -19,7 +20,7 @@ export default function App() {
       
       </div>
       <div class="resume_content">
-      <div class="resume_item resume_info">
+      <div class="resume_item resume_info"> 
       <div class="title">
            <p class="bold">ERNEST MATENJWA</p>
            <p class="regular">SOFTWARE DEVELOPER</p>
@@ -31,9 +32,10 @@ export default function App() {
       <p class="leftp"><LocalPhoneIcon/>0729476167</p>
       <p class="leftp"><HouseIcon></HouseIcon> Pretoria, Soshanguve 3043L</p>
       <br></br>
+      <Button variant="contained" color="primary" href="https://www.youtube.com/"><FacebookIcon /></Button>
       <IconButton/><FacebookIcon />
       <IconButton/><TwitterIcon />
-      <IconButton /><InstagramIcon />
+      <IconButton/> <InstagramIcon />
       <IconButton /><GitHubIcon />
       <br></br><br></br>
       <p class="regular">PERSONAL DETAILS</p>
