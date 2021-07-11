@@ -17,12 +17,12 @@ import Avatar from '@material-ui/core/Avatar';
  
 export default function App() {
   return (
+    
     <div class="resume">
       <div class="resume_left">
       <div class="resume_profile">
 
-      <Avatar src="https://web.facebook.com/photo?fbid=1844545479086392&set=a.300016890205933" />
-
+      <Avatar alt="Ernest" style={{height:300, width:260, margin: 10}} src="https://scontent.fpry1-1.fna.fbcdn.net/v/t1.6435-9/157205979_1774376826103258_1181649270317334898_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG60VB31EaKlEbXAJGyEFx_-GiHt0rNtX_4aIe3Ss21f0jig3KnQTb9R1jcUOeWGm-BOb5xOEveIHwxTrd9vp8y&_nc_ohc=x5hc6z-3R2wAX-9rpbo&_nc_pt=5&_nc_ht=scontent.fpry1-1.fna&oh=cdf7783960b0a4e614c728636aaeb3bd&oe=60EFB94A" />
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info"> 
