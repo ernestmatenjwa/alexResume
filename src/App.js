@@ -22,13 +22,13 @@ export default function App() {
       <div class="resume_left">
       <div class="resume_profile">
 
-      <Avatar alt="Ernest" style={{height:300, width:260, margin: 10}} src="https://scontent.fpry1-1.fna.fbcdn.net/v/t1.6435-9/157205979_1774376826103258_1181649270317334898_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG60VB31EaKlEbXAJGyEFx_-GiHt0rNtX_4aIe3Ss21f0jig3KnQTb9R1jcUOeWGm-BOb5xOEveIHwxTrd9vp8y&_nc_ohc=x5hc6z-3R2wAX-9rpbo&_nc_pt=5&_nc_ht=scontent.fpry1-1.fna&oh=cdf7783960b0a4e614c728636aaeb3bd&oe=60EFB94A" />
+      <Avatar alt="Ernest" style={{height:200, width:220, margin: 27}} src="https://scontent.fpry1-1.fna.fbcdn.net/v/t1.6435-9/157205979_1774376826103258_1181649270317334898_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=174925&_nc_eui2=AeG60VB31EaKlEbXAJGyEFx_-GiHt0rNtX_4aIe3Ss21f0jig3KnQTb9R1jcUOeWGm-BOb5xOEveIHwxTrd9vp8y&_nc_ohc=x5hc6z-3R2wAX-9rpbo&_nc_pt=5&_nc_ht=scontent.fpry1-1.fna&oh=cdf7783960b0a4e614c728636aaeb3bd&oe=60EFB94A" />
       </div>
       <div class="resume_content">
       <div class="resume_item resume_info"> 
       <div class="title">
            <p class="bold">ERNEST MATENJWA</p>
-           <p class="regular" style ={{color : "yellow"}}  >SOFTWARE DEVELOPER</p>
+           <p class="regular" style ={{color : "white"}}  >SOFTWARE DEVELOPER</p><br/>
       </div>
       <p class="regular">CONTACT</p>
       <hr></hr>
